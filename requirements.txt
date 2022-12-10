@@ -1,0 +1,8 @@
+pandas
+requests
+json
+matplotlib.pyplot
+seaborn
+statsmodels.formula.api
+statsmodels.stats.outliers_influence 
+OLSInfluence
