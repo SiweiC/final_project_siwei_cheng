@@ -3,6 +3,7 @@ requests
 json
 matplotlib.pyplot
 seaborn
+numpy
 statsmodels.formula.api
 statsmodels.stats.outliers_influence 
 OLSInfluence
